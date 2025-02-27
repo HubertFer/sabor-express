@@ -29,3 +29,5 @@ elif opcao_escolhida == 3:
       print('Listar restaurante')
 else:
       finalizar_app()
+
+#Fim do programa
